@@ -1,7 +1,7 @@
 clc;
 clear all;
 close all;
-a = imread("Sample.png")
+a = imread("SAMPLE.png")
 
 
 b=a;
