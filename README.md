@@ -13,3 +13,6 @@ I hope you enjoy the code and I am open to pull requests!
 
 ![](https://github.com/ayushsengupta8/Matlab/blob/main/RGB_Filters.png)
 
+# For Contributors!
+
+## Open RGB_Filters.m, download "Sample.png" and start editing, make sure you have MATLAB installed.
