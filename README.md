@@ -11,3 +11,5 @@ MATLAB is a proprietary multi-paradigm programming language and numeric computin
 
 I hope you enjoy the code and I am open to pull requests!
 
+![](https://github.com/ayushsengupta8/Matlab/blob/main/RGB_Filters.png)
+
